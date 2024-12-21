@@ -1,39 +1,42 @@
-# Quizproject
-# Breadcrumbs Quiz Project 🧩
+# 🎮 Quiz Game Project
 
 <div align="center">
-  <h1>Welcome to Breadcrumbs Quiz! 🧠</h1>
+  <h1>Welcome to the Quiz Game! 🧠</h1>
   <div class="scrolling-text">
-    🔍 Test your knowledge and track your progress step by step!
+    🚀 Test Your Knowledge | 🎯 Beat High Scores | 🔄 Play Again!
   </div>
 </div>
 
 ---
 
-## 📋 Project Overview
-**Breadcrumbs Quiz** is a dynamic and interactive quiz application designed to:
-- Challenge users with fun and engaging quizzes.  
-- Provide breadcrumbs-style navigation for easy tracking of progress.  
-- Enhance learning through step-by-step progression.
+## 📚 About the Project
+The **Quiz Game** is an interactive web-based application designed to challenge users with fun quizzes across various topics.  
+Players can track their scores, retry questions, and aim for the leaderboard!
 
 ---
 
 ## 🚀 Features
-- 🌟 Multiple quiz categories  
-- 📊 Real-time score tracking  
-- 📱 Responsive design for mobile and desktop  
-- 💾 Save and resume quizzes  
+- 🌐 Multiple Quiz Categories  
+- 🕹️ Timer and Scoreboard  
+- 📊 Live Feedback on Answers  
+- 🔄 Retry Incorrect Questions  
+- 📱 Mobile Responsive Design  
 
 ---
 
-## 🛠️ Technologies Used
+## 🎨 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js (Optional)  
-- **Database**: MongoDB / JSON (Optional) 
-# Clone the repository
-git clone https://github.com/username/BreadcrumbsQuiz.git
+- **Backend (Optional)**: Node.js / Express  
+- **Database (Optional)**: MongoDB  
 
-# Navigate to the project directory
-cd BreadcrumbsQuiz
+---
+
+## 📂 How to Run
+```bash
+# Clone the repository
+git clone https://github.com/username/quiz-game.git
+
+# Navigate to the project folder
+cd quiz-game
 
 # Open index.html in your browser

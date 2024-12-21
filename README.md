@@ -27,7 +27,27 @@ Players can track their scores, retry questions, and aim for the leaderboard!
 ## 🎨 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend (Optional)**: Node.js / Express  
-- **Database (Optional)**: MongoDB  
+- **Database (Optional)**: MongoDB
+- <style>
+  .scrolling-text {
+    display: inline-block;
+    white-space: nowrap;
+    animation: scroll-left 8s linear infinite;
+    font-size: 20px;
+    font-weight: bold;
+    color: #4caf50;
+  }
+
+  @keyframes scroll-left {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+</style>
+ 
 
 ---
 
